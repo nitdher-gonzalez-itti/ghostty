@@ -1,4 +1,4 @@
-theme = Everforest Dark   Hard
+theme = Everforest Dark - Hard
 font-family = IosevkaTerm NF
 font-size = 16
 cursor-style = block
@@ -42,4 +42,3 @@ macos-option-as-alt = true
 
 keybind = alt+left=unbind
 keybind = alt+right=unbind
-keybind = shift+enter=text:\n
