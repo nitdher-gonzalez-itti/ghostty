@@ -6,32 +6,32 @@ background-blur-radius = 20
 window-vsync = true
 macos-auto-secure-input = true
 
-# Gruvbox Dark palette
-background = #282828
-foreground = #ebdbb2
+# Aylin palette
+background = #1F2430
+foreground = #EBEFFF
 
-palette = 0=#282828
-palette = 1=#cc241d
-palette = 2=#98971a
-palette = 3=#d79921
-palette = 4=#458588
-palette = 5=#b16286
-palette = 6=#689d6a
-palette = 7=#a89984
-palette = 8=#928374
-palette = 9=#fb4934
-palette = 10=#b8bb26
-palette = 11=#fabd2f
-palette = 12=#83a598
-palette = 13=#d3869b
-palette = 14=#8ec07c
-palette = 15=#ebdbb2
+palette = 0=#1F2430
+palette = 1=#F45C7F
+palette = 2=#ADDB67
+palette = 3=#ECC48D
+palette = 4=#6CBEFF
+palette = 5=#C792EA
+palette = 6=#7FDBCA
+palette = 7=#C8C8DB
+palette = 8=#74778C
+palette = 9=#FD98B9
+palette = 10=#ADDB67
+palette = 11=#ECC48D
+palette = 12=#9FD4FF
+palette = 13=#C792EA
+palette = 14=#7FDBCA
+palette = 15=#EBEFFF
 
-cursor-color = #ebdbb2
-selection-background = #504945
-selection-foreground = #ebdbb2
+cursor-color = #EBEFFF
+selection-background = #313E52
+selection-foreground = #EBEFFF
 
-window-save-state = always
+window-save-state = never
 macos-titlebar-style=transparent
 window-colorspace = "display-p3"
 window-padding-color = extend
@@ -41,7 +41,7 @@ window-padding-balance = true
 
 copy-on-select = clipboard
  
-fullscreen= true
+fullscreen= false
 window-decoration = true
 
 shell-integration= fish
